@@ -2,17 +2,17 @@
 
 #define USB_VID				0x1209
 #define USB_PID				0xB182
-#define USB_PRODUCT			"BBQ20KBD"
+#define USB_PRODUCT			"USBKeyBoard"
 
 #define PIN_INT				0
 #define PIN_BKL				25
 
-#define PIN_SDA				18
-#define PIN_SCL				23
+#define PIN_SDA				20
+#define PIN_SCL				22
 
-#define PIN_TP_RESET		16
-#define PIN_TP_MOTION		22
-#define PIN_TP_SHUTDOWN		24
+#define PIN_TP_RESET		18
+#define PIN_TP_MOTION		21
+#define PIN_TP_SHUTDOWN		23
 
 #define PIN_PUPPET_SDA		28
 #define PIN_PUPPET_SCL		29
